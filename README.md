@@ -143,6 +143,6 @@ All unit tests for models (`Expense`), calculations (`ExpenseService`), and widg
 ---
 
 ## 📄 Submission Deliverables
-- **GitHub Repository**: [Public Link]
-- **App and Code Demonstration Video**: [Drive / YouTube Link]
-- **Release APK**: [Download Link]
+- **GitHub Repository**: https://github.com/Mumsif/expense_tracker
+- **App and Code Demonstration Video**: https://drive.google.com/file/d/1cvzy5f3gR07gBqf4m9eH5elswT0R3Zv0/view?usp=sharing
+- **Release APK**: https://github.com/Mumsif/expense_tracker/releases/tag/v-0.0.1
